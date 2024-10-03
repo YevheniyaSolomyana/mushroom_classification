@@ -20,3 +20,6 @@ whether a mushroom is poisonous or edible. Moreover, none of the input labels (f
 dominance in predicting at 100% accuracy of the models. In fact, the features are working 
 together as a combination to give these amazing predictions. This means that the mushroom 
 dataset is a very good and clean one and the features are very good predictors of the classes.
+
+
+To test the models yourself, download the "mushroom_classification.ipynb" file and run each code cell in Google Colab.
